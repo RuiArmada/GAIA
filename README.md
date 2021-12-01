@@ -1,2 +1,2 @@
-# Ginas-Nest
+# GAIA: PRIME
 My personal dotfiles
