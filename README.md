@@ -4,7 +4,7 @@ In you all things are possible.
 
 ## GAIA: SUBBORDINATE FUNCTIONS
 
-| Codename | Program |
+| NAME | PROGRAM |
 | --- | :---: | 
 | Aether | Alacritty |
 | Apollo | ZSH |
