@@ -1,5 +1,7 @@
 # GAIA: PRIME
-    My personal dotfiles
+In you all things are possible.
 
-* [Aether] - Alacritty
-* [Apollo] - ZSH
+
+## GAIA: SUBBORDINATE FUNCTIONS
+* Aether - Alacritty
+* Apollo - ZSH
