@@ -2,7 +2,7 @@
 In you all things are possible
 
 
-## GAIA: SUBORDINATE FUNCTIONS
+## GAIA: SUBROUTINES
 
 | NAME | PROGRAM |
 | --- | :---: | 
