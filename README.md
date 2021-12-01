@@ -6,5 +6,5 @@ In you all things are possible
 
 | NAME | PROGRAM |
 | --- | :---: | 
-| Aether | [Alacritty](https://github.com/RuiArmada/GAIA/tree/main/Aether) |
-| Apollo | [ZSH](https://github.com/RuiArmada/GAIA/tree/main/Apollo) |
+| AETHER | [Alacritty](https://github.com/RuiArmada/GAIA/tree/main/Aether) |
+| APOLLO | [ZSH](https://github.com/RuiArmada/GAIA/tree/main/Apollo) |
