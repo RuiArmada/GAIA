@@ -2,6 +2,6 @@
 In you all things are possible.
 
 
-## GAIA: SUBBORDINATE FUNCTIONS
+### GAIA: SUBBORDINATE FUNCTIONS
 * Aether - Alacritty
 * Apollo - ZSH
