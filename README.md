@@ -1,2 +1,5 @@
 # GAIA: PRIME
-My personal dotfiles
+    My personal dotfiles
+
+* [Aether] - Alacritty
+* [Apollo] - ZSH
