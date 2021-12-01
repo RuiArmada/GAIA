@@ -2,7 +2,7 @@
 In you all things are possible.
 
 
-## GAIA: SUBBORDINATE FUNCTIONS
+## GAIA: SUBORDINATE FUNCTIONS
 
 | NAME | PROGRAM |
 | --- | :---: | 
